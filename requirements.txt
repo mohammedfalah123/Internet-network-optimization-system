@@ -1,0 +1,55 @@
+# ==================== NETWORK SIMULATION LIBRARIES ====================
+# PONS-DTN: Delay Tolerant Network Simulator (محاكي شبكات الفرص)
+pons-dtn>=0.1.4
+
+# PyTrafficControl: Network traffic control and simulation (التحكم في حركة الشبكة)
+pytrafficcontrol>=1.2.0
+
+# NetworkX: Graph theory and network topology creation (إنشاء وتحليل هيكل الشبكة)
+networkx>=3.2.1
+
+# SimPy: Discrete-event simulation (محاكاة الأحداث المنفصلة)
+simpy>=4.1.1
+
+# ==================== OPTIMIZATION ALGORITHMS LIBRARIES ====================
+# MealPy: 200+ Metaheuristic Algorithms (الخوارزميات الـ 37 + 60 هجينة)
+mealpy>=3.0.1
+
+# PyMoo: Multi-objective Optimization (للتحسين متعدد الأهداف)
+pymoo>=0.6.1
+
+# JMetalPy: Multi-objective optimization with Java-inspired algorithms
+jmetalpy>=1.9.0
+
+# Scikit-Opt: Python toolkit for optimization algorithms
+scikit-opt>=0.6.6
+
+# Optuna: Hyperparameter optimization framework
+optuna>=3.6.0
+
+# ==================== SCIENTIFIC COMPUTING ====================
+# NumPy: Numerical computing
+numpy>=1.24.0
+
+# Pandas: Data manipulation and analysis
+pandas>=2.0.0
+
+# SciPy: Scientific computing
+scipy>=1.10.0
+
+# Scikit-learn: Machine learning utilities
+scikit-learn>=1.3.0
+
+# ==================== VISUALIZATION ====================
+# Matplotlib: Basic plotting
+matplotlib>=3.7.0
+
+# Seaborn: Statistical data visualization
+seaborn>=0.12.0
+
+# Plotly: Interactive visualizations
+plotly>=5.14.0
+
+# ==================== STREAMLIT UI ====================
+# Streamlit: Web application framework
+streamlit>=1.28.0
